@@ -1,6 +1,6 @@
 # JavaSeleniumProject---Redmatch-QA
 
-This is a small scale java selenium based automation project.
+This is a small taste of a java selenium based automation project.
 
 I used java framework to operate selenium library actions + Db connection using JDBC library.
 
